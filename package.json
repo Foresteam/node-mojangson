@@ -1,6 +1,6 @@
 {
   "name": "@foresteam/mojangson",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "A mojangson parser written in node.js (fork)",
   "main": "index.js",
   "types": "index.d.ts",
